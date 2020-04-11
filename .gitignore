@@ -1,0 +1,15 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uilds/
+/[Ll]ogs/
+/WebGL/
+
+!/[Aa]ssets/**/*.meta
+
+.vscode/
+
+*.csproj
+*.sln
+
+/[Aa]ssets/Plugins/iOS/
