@@ -4,7 +4,7 @@ micro:bitの「bluetooth」という拡張機能にある
 - Bluetooth ボタンサービス
 - Bluetooth 磁力計サービス
 
-のブロックを使用した時に、micro:bitから送られてくる値を、Unityで利用するための、MacOSX用のネイティブプラグインと、これを使用したプログラムを作成しました。
+のブロックを使用した時に、micro:bitから送られてくる値を、Unityで利用するために、MacOSX用のネイティブプラグインと、これを使用したプログラムを作成しました。
 
 ## 動作環境
 ### MacOS
@@ -17,5 +17,5 @@ BluetoothをONにしてください。micro:bitとペアリングする必要は
 ### micro:bit
 microbitフォルダにあるhexファイルを、micro:bitに書き込みます。
 
-プログラムを開始すると、Bluetoothをスキャンして、最初に見つかったmicro:bitと接続します。
+プログラムを開始すると、Bluetoothをスキャンして、最初に見つかったmicro:bitと接続します。  
 Mac上のUnityのエディタ環境では、そのまま動作するようです。
